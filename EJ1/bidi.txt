@@ -1,0 +1,7 @@
+public class bidi{
+	public void main(String[] args){
+		hola mundo
+
+
+	}
+}
