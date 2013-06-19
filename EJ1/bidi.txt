@@ -1,7 +1,5 @@
 public class bidi{
 	public void main(String[] args){
-		hola mundo
-
-
+		hola mundo COMO EASTYAS
 	}
 }
